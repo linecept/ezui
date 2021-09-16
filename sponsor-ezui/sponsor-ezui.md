@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Sponsor EZUI
-nav_order: 5
+nav_order:
 description: "Sponsor"
 permalink: sponsor-ezui/
 ---
 
-# Design Guide
+# Sponsor EZUI
 
 text

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Licencing
-has_children: true
-nav_order: 6
+nav_order: 5
 description: "Licencing"
 permalink: licencing/
 ---
