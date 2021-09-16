@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Installation
+parent: Getting Started
 nav_order: 1
-description: "installation"
-permalink: getting-started/installation
+description: "Installation"
+permalink: getting-started/installation/
 ---
 
-## some title
+# Installation
 
-### some other title
+text
