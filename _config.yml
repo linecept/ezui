@@ -1,4 +1,4 @@
-title: "EZUI Website"
+title: "EZUI Library"
 
 # theme: jekyll-theme-minimal
 
@@ -13,7 +13,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 # Color Scheme
 
-color_scheme: "custom"
+color_scheme: "linecept-colors"
 
 # Footer content
 # appears at the bottom of every page's main content
