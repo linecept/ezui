@@ -1,20 +1,12 @@
 ---
 layout: default
-title: Color
-parent: What is EZUI?
+title: Features
+parent: Introduction
+nav_order: 1
+description: "Features"
+permalink: introduction/features
 ---
 
-# Color Utilities
+# Features
 
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
----
-
-All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
+text
