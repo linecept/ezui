@@ -3,7 +3,12 @@ theme: jekyll-theme-minimal
 ## Customization
 
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+
+# Google Analytics
+
+ga_tracking: UA-286632712-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
 # Footer content
 # appears at the bottom of every page's main content
 
@@ -11,8 +16,9 @@ color_scheme: dark
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2015-%Y David Tamas Kutas. Distributed by an <a href="https://github.com/linecept/ezui">license.</a>'
+footer_content: "Copyright &copy; 2015- %Y David Tamas Kutas. Distributed by an <a href="https://github.com/linecept/ezui">license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
