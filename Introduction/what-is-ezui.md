@@ -7,7 +7,7 @@ description: "What is EZUI?"
 permalink: introduction/what-is-ezui
 ---
 
-# Utilities
+# What is EZUI?
 
 {: .no_toc }
 
