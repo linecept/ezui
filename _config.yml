@@ -9,12 +9,16 @@ remote_theme: pmarsceill/just-the-docs
 ga_tracking: UA-207758550-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+# Color Scheme
+
+color_scheme: linecept
+
 # Footer content
 # appears at the bottom of every page's main content
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Back to Top"
 
 footer_content: 'Copyright &copy; 2015-2021 David Tamas Kutas. Distributed by an <a href="https://github.com/linecept/ezui">license.</a>'
 
