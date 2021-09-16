@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Utilities
+title: What is EZUI?
+parent: Introduction
 nav_order: 1
-has_children: true
 description: "What is EZUI?"
 permalink: /introduction/what-is-ezui
 ---
