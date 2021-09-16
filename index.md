@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: ezui.wtf
 nav_order: 1
-description: "ezui description"
+description: "ezui.wtf"
 permalink: /
 ---
 
