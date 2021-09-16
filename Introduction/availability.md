@@ -2,7 +2,7 @@
 layout: default
 title: Availability
 parent: Introduction
-nav_order: 3
+nav_order: 4
 description: "Availability"
 permalink: introduction/availability
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: About
 parent: Introduction
-nav_order: 5
+nav_order: 6
 description: "About"
 permalink: introduction/about
 ---
