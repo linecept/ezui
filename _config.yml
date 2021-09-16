@@ -11,7 +11,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 # Color Scheme
 
-color_scheme: linecept
+color_scheme: "linecept"
 
 # Footer content
 # appears at the bottom of every page's main content
