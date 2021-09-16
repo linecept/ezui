@@ -4,7 +4,7 @@ title: What is EZUI?
 parent: Introduction
 nav_order: 1
 description: "What is EZUI?"
-permalink: /introduction/what-is-ezui
+permalink: introduction/what-is-ezui
 ---
 
 # Utilities
