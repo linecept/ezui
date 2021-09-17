@@ -7,6 +7,8 @@ description: "Introduction"
 permalink: /
 ---
 
+{: .no_toc }
+
 # Title
 
 {: .fs-9 }
