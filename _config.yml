@@ -15,6 +15,10 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 color_scheme: "linecept-colors"
 
+# Aux links for the upper right navigation
+aux_links:
+  "EZUI on GitHub":
+    - "//github.com/linecept/ezui"
 # Footer content
 # appears at the bottom of every page's main content
 
