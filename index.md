@@ -13,7 +13,7 @@ has_toc: false
 {: .fs-9 }
 
 Make any website zoom. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
-{: .fs-6 .fw-300 }
+{: .fs-4 .fw-300 }
 
 ## What is EZUI?
 
