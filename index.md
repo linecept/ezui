@@ -8,26 +8,30 @@ permalink: /
 has_toc: false
 ---
 
-# Title
+# Elastic Zoomable User Interface (EZUI)
 
 {: .fs-9 }
 
-description
+Make any website zoom. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
+## What is EZUI?
+
+Elastic Zoomable user Interfaces (EZUIs) allow web page elements to zoom. It can make an entire site to be interacted with magnification metaphors. EZUIs automatically adapt to the given viewport size and aspect ratio making the magnification elastically changing, adapting to its container element (viewport).
+
+[Get started now](https://ezui.wtf/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+## Learn More
+
+{:toc}
 
 ---
 
-## Getting started
-
-### Dependencies
-
-EZUI is built for [React](https://reactjs.org/), a JavaScript library for building user interfaces. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
 ## About the Project
 
-EZUI is &copy; 2017-{{ "now" | date: "%Y" }} by [David Kutas](https://portfolio.davidkutas.com).
+EZUI was started by David Kutas in the summer of 2015 while having some fun in Greece. He kept dreaming and building it until it became more serious and arrived the UC Irvine to work on it as part of his PhD.
+
+EZUI is &copy; 2015-{{ "now" | date: "%Y" }} by [David Kutas](https://portfolio.davidkutas.com).
 
 ### License
 
