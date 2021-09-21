@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 description: "Introduction"
 permalink: /
-has_toc: false
+has_toc: true
 ---
 
 # Elastic Zoomable User Interface (EZUI)
