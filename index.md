@@ -50,6 +50,4 @@ At this point in time contribution is possible through suggestions. Suggestions 
 
 ### Code of Conduct
 
-EZUI is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+EZUI is committed to fostering a welcoming community. [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
