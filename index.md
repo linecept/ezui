@@ -20,9 +20,11 @@ Elastic Zoomable user Interfaces (EZUIs) allow web page elements to zoom. It can
 
 [Get started now](https://ezui.wtf/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## Learn More
+## In Medias Res
 
-{:toc}
+- [Demo](https://ezui.wtf/demo/)
+- [Installation with NPM](https://ezui.wtf/getting-started/installation/npm)
+- [Design Guide](https://ezui.wtf/design-guide/)
 
 ---
 
