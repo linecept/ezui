@@ -38,18 +38,16 @@ EZUI is distributed by an [license](https://LICENSE.txt).
 
 ### Contributing
 
+At this point in time contribution is possible through suggestions. Suggestions can be made through [GitHub](https://github.com/linecept/ezui/issues).
+
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
 
-#### Thank you to the contributors of EZUI!
+#### Design and Development Principles
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+1. DIY - as few dependencies as possible.
+2. Performance is king - good performance leads to superior human experience, value the user, value the performance.
+3. Quality First - good quality is more important than doing something quick and dirty. There are enough of that stuff on the internet!
 
 ### Code of Conduct
 
