@@ -10,7 +10,7 @@ has_toc: true
 
 # Elastic Zoomable User Interface (EZUI)
 
-{: .fs-7 }
+{: .fs-6 }
 
 Make any website zoom. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
 
