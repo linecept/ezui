@@ -42,9 +42,6 @@ EZUI is distributed by an [license](https://LICENSE.txt).
 
 At this point in time contribution is possible through suggestions. Suggestions can be made through [GitHub](https://github.com/linecept/ezui/issues).
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
 #### Design and Development Principles
 
 1. DIY - as few dependencies as possible.
