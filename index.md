@@ -14,13 +14,13 @@ has_toc: false
 
 Make any website zoom. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
 
+[Get started now](https://ezui.wtf/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ## What is EZUI?
 
 Elastic Zoomable user Interfaces (EZUIs) allow web page elements to zoom. It can make an entire site to be interacted with magnification metaphors. EZUIs automatically adapt to the given viewport size and aspect ratio making the magnification elastically changing, adapting to its container element (viewport).
 
-[Get started now](https://ezui.wtf/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-## In Medias Res
+## See More
 
 - [Demo](https://ezui.wtf/demo/)
 - [Installation with NPM](https://ezui.wtf/getting-started/installation/npm)
