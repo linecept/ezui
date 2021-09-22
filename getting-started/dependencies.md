@@ -28,4 +28,4 @@ To be updated.
 
 ## Future Plans
 
-We plan to expand beyond React in the near future. Stay tuned.
+We plan to expand beyond React in the future. Stay tuned.
