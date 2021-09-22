@@ -2,7 +2,7 @@
 layout: default
 title: What is next?
 parent: Getting Started
-nav_order: 3
+nav_order: 4
 description: "What is next?"
 permalink: getting-started/what-is-next/
 ---
