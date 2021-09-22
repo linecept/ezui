@@ -1,11 +1,10 @@
 ---
 layout: default
-title: CodeSandbox
-parent: Quick Start
-grand_parent: Getting Started
-nav_order: 3
+title: Dependencies
+parent: Introduction
+nav_order: 5
 description: "Dependencies"
-permalink: getting-started/quick-start/dependencies
+permalink: introduction/dependencies
 ---
 
 # Dependencies
