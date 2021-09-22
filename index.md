@@ -12,7 +12,7 @@ has_toc: false
 
 {: .fs-6 }
 
-Make any website zoom. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
+Make any website zoom. Create universal experiences across screen sizes and shapes. A frontend library for the web to develop automatically adapting zoomable user interfaces from smartwatch to wall-sized screens.
 
 [Get started now](https://ezui.wtf/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/linecept/ezui){: .btn .fs-5 .mb-4 .mb-md-0 }
 
@@ -38,15 +38,15 @@ EZUI is &copy; 2015-{{ "now" | date: "%Y" }} by [David Kutas](https://portfolio.
 
 EZUI is distributed by an [license](https://LICENSE.txt).
 
-### Contributing
+### Known Issues & Troubleshooting & Contributing
 
 At this point in time contribution is possible through suggestions. Suggestions can be made through [GitHub](https://github.com/linecept/ezui/issues).
 
 #### Design and Development Principles
 
-1. DIY - as few dependencies as possible.
-2. Performance is king - good performance leads to superior human experience, value the user, value the performance.
-3. Quality First - good quality is more important than doing something quick and dirty. There are enough of that stuff on the internet!
+1. DIY/vertical integration: as few dependencies as possible. Yet, embrace the best.
+2. Performance is king: good performance leads to superior human experience, value the user, value the performance.
+3. Quality first: good quality is more important than doing something quick and dirty. There are enough of that stuff on the internet!
 
 ### Code of Conduct
 
