@@ -9,4 +9,8 @@ permalink: introduction/availability
 
 # Availability
 
-text
+Currently, EZUI is available for React.
+
+## Future Plans
+
+We plan to expand beyond React in the future. Stay tuned.
