@@ -2,7 +2,7 @@
 layout: default
 title: "Basics"
 parent: Demo
-nav_order: 3
+nav_order: 1
 description: "Basics"
 permalink: demo/basics
 ---
